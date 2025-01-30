@@ -33,4 +33,22 @@
         "telefonnummer" : "28453275"
     }
     
+}
+
+{
+    "navne": {
+        "fornavn": "Lea",
+        "efternavn": "Felgreen"
+    },
+    "alder": 26,
+    "studerende": true,
+    "faglig interesse": ["medier", "visuel design", "information"],
+    "erfaring": ["informationsteori", "eventmedarbejder", "App-design", "tegning", "filmredigering"],
+    "email": "leafelgreens@gmail.com",
+    "adresse": {
+        "vej": "Stenleddet 39",
+        "by": "Roskilde",
+        "postnummer": 4000
+    },
+    "fødselsdato": "1998-02-24"
 }]
