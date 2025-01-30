@@ -1,0 +1,19 @@
+[{
+    "navne" : {
+        "navn" : "Meleese",
+        "efternavn" : "Kærhavn"
+    },
+    "alder" : 27,
+    "studerende" : true, 
+    "interesser" : ["tegne", "kode", "hækle"], 
+    "adresser" : {
+        "by" : "Hvalsø", 
+        "postnummer" : 4330, 
+        "vej" : "Hovedgaden 13b"
+    } , 
+    "kontakt" : {
+        "emailadresse" : "Meleesekaerhavn@gmail.com", 
+        "telefonnummer" : "28453275"
+    }
+    
+}]
