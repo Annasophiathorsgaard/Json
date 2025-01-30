@@ -1,0 +1,16 @@
+{
+    "navne":{
+        "fornavn": "Anna-Sophia",
+        "mellemnavn": "Thorsgaard",
+        "efternavn": "Pedersen"
+    },
+    "alder": 22,
+    "sturderende": true,
+    "interesser": ["Design", "Sport", "Veninder"],
+    "adresse": {
+        "vej": "Falkoner Allé 4",
+        "by": "Frederiksberg",
+        "postnummer": 2000
+    },
+    "fødselsdagsdato": "2002-08-10"
+}
